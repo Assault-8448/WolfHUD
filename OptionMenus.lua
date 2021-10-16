@@ -414,7 +414,8 @@ if WolfHUD then
 					["portuguese"] = "wolfhud_languages_portuguese",
 					["russian"] = "wolfhud_languages_russian",
 					["chinese"] = "wolfhud_languages_chinese",
-					["korean"] = "wolfhud_languages_korean"
+					["korean"] = "wolfhud_languages_korean",
+					["japanese"] = "wolfhud_languages_japanese"
 				},
 				visible_reqs = {},
 				enabled_reqs = {},
